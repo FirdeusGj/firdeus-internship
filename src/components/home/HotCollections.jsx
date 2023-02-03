@@ -22,7 +22,6 @@ const HotCollections = () => {
       </svg>
     );
   }
-// any comment
   const [hotCollections, setHotCollections] = useState([]);
   const [loading, setLoading] = useState(false);
 
